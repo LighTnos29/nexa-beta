@@ -1,4 +1,4 @@
-![Logo](https://s3.amazonaws.com/sdxl-train/logo-2.png)
+![Logo](https://s3.amazonaws.com/sdxl-train/logo.png)
 # Nexa Web Application - v1
 
 Welcome to NexaThread Web Application repository! This web application is powered by Next.js and offers an innovative platform for AI-driven dress design and fashion exploration.
