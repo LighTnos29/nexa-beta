@@ -66,6 +66,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements f
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [NexaThread Private Limited](LICENSE).
 
 
