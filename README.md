@@ -1,4 +1,4 @@
-
+![Logo](https://s3.amazonaws.com/sdxl-train/logo-2.png)
 # Nexa Web Application - v1
 
 Welcome to NexaThread Web Application repository! This web application is powered by Next.js and offers an innovative platform for AI-driven dress design and fashion exploration.
@@ -21,11 +21,29 @@ To get started with the NexaThread Web Application locally, follow these steps:
 4. Start the development server using `npm run dev` or `yarn dev`.
 5. Open your web browser and navigate to `http://localhost:3000` to view the application.
 
+## Screenshots
+1. **Home Page:**
+
+![App Screenshot](https://s3.amazonaws.com/sdxl-train/Home.png)
+
+2. **Generating Page:**
+
+![App Screenshot](https://s3.amazonaws.com/sdxl-train/Generate.png)
+
 ## Technologies Used
 
 - Next.js
 - Tailwind CSS 
 - Framer-motion
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#141414](https://via.placeholder.com/10/141414?text=+) #141414 |
+| Secondary Color | ![#1d1d1d](https://via.placeholder.com/10/1d1d1d?text=+) #1d1d1d |
+
+
 
 ## Learn More
 
@@ -49,3 +67,5 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
