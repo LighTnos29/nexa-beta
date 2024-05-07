@@ -4,17 +4,32 @@ Copyright (c) 2024 NexaThread Private Limited
 
 All rights reserved. Unauthorized use of this repository is strictly prohibited.
 
-1. Use of Repository: The NexaThread Web Application repository (hereinafter referred to as "the repository") is provided by NexaThread Private Limited (hereinafter referred to as "NexaThread") for authorized purposes only. Use of the repository without explicit permission from NexaThread is strictly prohibited.
+1. Use of Repository: The NexaThread Web Application repository (hereinafter referred to as "the repository") is provided
+   by NexaThread Private Limited (hereinafter referred to as "NexaThread") for authorized purposes only. Use of the repository
+   without explicit permission from NexaThread is strictly prohibited.
 
-2. Redistribution: Redistribution and use of the repository, in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+2. Redistribution: Redistribution and use of the repository, in source and binary forms, with or without modification, are
+   permitted provided that the following conditions are met:
    a. The repository may only be used for purposes authorized by NexaThread.
-   b. Redistributions of the repository must retain the above copyright notice, this list of conditions, and the following disclaimer.
-   c. Neither the name of NexaThread nor the names of its contributors may be used to endorse or promote products derived from this repository without specific prior written permission from NexaThread.
+   b. Redistributions of the repository must retain the above copyright notice, this list of conditions, and the following
+   disclaimer.
+   c. Neither the name of NexaThread nor the names of its contributors may be used to endorse or promote products derived
+   from this repository without specific prior written permission from NexaThread.
 
-3. Warranty Disclaimer: THE REPOSITORY IS PROVIDED BY NEXATHREAD "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. NEXATHREAD MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE USE OR PERFORMANCE OF THE REPOSITORY, INCLUDING BUT NOT LIMITED TO THE ACCURACY, RELIABILITY, OR COMPLETENESS OF ANY INFORMATION CONTAINED THEREIN. IN NO EVENT SHALL NEXATHREAD BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE REPOSITORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+3. Warranty Disclaimer: THE REPOSITORY IS PROVIDED BY NEXATHREAD "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+   BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. NEXATHREAD
+   MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE USE OR PERFORMANCE OF THE REPOSITORY, INCLUDING BUT NOT LIMITED TO THE
+   ACCURACY, RELIABILITY, OR COMPLETENESS OF ANY INFORMATION CONTAINED THEREIN. IN NO EVENT SHALL NEXATHREAD BE LIABLE FOR ANY
+   DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+   SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+   WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE REPOSITORY,
+   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-4. Governing Law: This License shall be governed by and construed in accordance with the laws of India. Any dispute arising under or related to this License shall be subject to the exclusive jurisdiction of the courts of India.
+4. Governing Law: This License shall be governed by and construed in accordance with the laws of India. Any dispute arising under or
+   related to this License shall be subject to the exclusive jurisdiction of the courts of India.
 
-By accessing or using the repository, you agree to abide by the terms and conditions set forth in this License. If you do not agree to these terms, you are not authorized to use the repository.
+By accessing or using the repository, you agree to abide by the terms and conditions set forth in this License. If you do not agree to
+these terms, you are not authorized to use the repository.
 
-For inquiries regarding the use of the repository or to request permission for authorized use, please contact NexaThread at [contact email or address].
+For inquiries regarding the use of the repository or to request permission for authorized use, please contact NexaThread at
+technical@nexathread.com.
