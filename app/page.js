@@ -1,10 +1,8 @@
 "use client";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import Lottie from "lottie-react";
-import Loading from "../public/animations/loading.json";
-import PromptSection from "./Components/PromptSection";
 import Input from "./Components/Input";
+import Beta from "./Components/beta";
 
 export default function Home() {
   const [value, setValue] = useState("");
@@ -14,16 +12,7 @@ export default function Home() {
   return (
     <main className="min-h-screen w-full bg-primary font-poppins">
       <div className="p-14">
-        <h1 className="text-4xl font-extrabold text-white">
-          NexaThread <sup>&#174;</sup>{" "}
-        </h1>
-        <PromptSection />
-        <Input
-          placeholder="Enter Your Prompt"
-          type="text"
-          value={value}
-          onChange={handleValue}
-        />
+       <Beta/>
 
         {/* <div className="mt-12">
           <h1 className="text-white">Here is your imagination !</h1>
