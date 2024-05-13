@@ -1,7 +1,7 @@
 // next.config.js
 const nextConfig = {
     images: {
-      domains: ['res.cloudinary.com','lottie.host'],
+      domains: ['res.cloudinary.com','lottie.host','cdn.icon-icons.com'],
     },
   };
   
